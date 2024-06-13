@@ -25,9 +25,7 @@
 	<li>
 		Por aprender: 	
    	</li>
-    	<li>
 
-  	</li>
    	
 
 </ul>

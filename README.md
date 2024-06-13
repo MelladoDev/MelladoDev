@@ -11,21 +11,22 @@
 	</li>
 	-->
 	<li>
-		Aprendido: Html, Css , Bootstrap
+		Aprendido: Html, Css , Bootstrap, JS, React, SQL, Node
 	</li>	
 	<li>
 		<img src="https://img.icons8.com/dusk/64/html-5.png" alt="html_logo">
 		<img src="https://img.icons8.com/dusk/64/css3.png" alt="css_logo">
 		<img src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap_logo">
-  	</li>
-	<li>
-		Por aprender: JS, React, SQL, Node	
-   	</li>
-    	<li>
 		<img src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="js_logo">
 		<img src="https://img.icons8.com/dusk/64/react.png" alt="react_logo">
 		<img src="https://img.icons8.com/dusk/64/database.png" alt="sql">
 		<img src="https://img.icons8.com/nolan/64/node-js.png" alt="node_logo">
+  	</li>
+	<li>
+		Por aprender: 	
+   	</li>
+    	<li>
+
   	</li>
    	
 

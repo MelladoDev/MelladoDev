@@ -20,6 +20,7 @@ $\LARGE\color{Violet}{\text{🧠 Actualmente estoy aprendiendo Astro}}$
 
  
 
-📫 Contacto
-mellado.dev@gmail.com
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Cheskalala/30-nites-of-code)  
+  ![@Cheskalala #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Cheskalala)
 

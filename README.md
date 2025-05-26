@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MelladoDev/MelladoDev/refs/heads/main/gifs/file_00000000fe986230a80db6b9de9f3913.png">
+<img src="https://raw.githubusercontent.com/MelladoDev/MelladoDev/refs/heads/main/gifs/María%20Francisca%20Mellado.png">
 
 ## $\Huge\color{Teal}{\text{🚀 Sobre mi}}$
 

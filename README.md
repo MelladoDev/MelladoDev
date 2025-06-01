@@ -7,28 +7,28 @@
 <div align="center">
 
   <a href="https://github.com/MelladoDev/Scripta-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=Scripta-Frontend&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=Scripta-Frontend&theme=jolly&cache_seconds=10" />
   </a>
  </a>&nbsp;&nbsp;
   <a href="https://github.com/MelladoDev/Scripta-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=Scripta-Backend&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=Scripta-Backend&theme=jolly&cache_seconds=10" />
   </a>
   
   <a href="https://github.com/MelladoDev/api-joyeria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=api-joyeria&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=api-joyeria&theme=jolly&cache_seconds=10" />
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/MelladoDev/to-do-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=to-do-list&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=to-do-list&theme=jolly&cache_seconds=10" />
   </a>
 
 
   <a href="https://github.com/MelladoDev/desktop-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=desktop-app&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=desktop-app&theme=jolly&cache_seconds=10" />
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/MelladoDev/Sistema-de-mensajeria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=Sistema-de-mensajeria&theme=jolly" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MelladoDev&repo=Sistema-de-mensajeria&theme=jolly&cache_seconds=10" />
   </a>
 
 </div>

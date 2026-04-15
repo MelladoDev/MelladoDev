@@ -42,12 +42,7 @@
 <img align="center" height="38px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,postgres,nodejs,express,astro,bootstrap,git,github"/>
 <br><br>
 
-$\LARGE\color{Violet}{\text{🧠 Actualmente estoy aprendiendo Astro}}$
 
 
-<br><br>
 
-## #30NitesOfCode:
-  ![@Cheskalala #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Cheskalala)
-  [Check out my progress!](https://www.codedex.io/@Cheskalala/30-nites-of-code)  
-</div>
+
